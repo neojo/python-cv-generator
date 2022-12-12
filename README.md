@@ -1,6 +1,8 @@
 # python cv generator
 
-##Installations
+##Installation
+
+
 run `python install -r requirement.txt`
 
 
