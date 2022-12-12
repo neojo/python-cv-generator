@@ -8,5 +8,4 @@ run `python install -r requirement.txt`
 
 
 
-
-![democv](https://user-images.githubusercontent.com/73483819/206940376-9ef745db-7a24-443c-8ccd-bf1bb6be860c.png)
+![democv](https://user-images.githubusercontent.com/73483819/206942239-6992b9c5-6246-4991-960a-abc1dda0e01d.png)
